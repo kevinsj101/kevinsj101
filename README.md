@@ -3,7 +3,7 @@
 ## I'm a Student at SRM Institute of Science and Technology
 
 - 🌱 I’m currently learning Python
-- Languages i know include C and C++
+- Languages I know include C and C++
 
 
 
