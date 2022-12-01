@@ -2,8 +2,8 @@
 
 ## I'm a Student at SRM Institute of Science and Technology
 
-- 🌱 I’m currently learning Python
-- Languages I know include C and C++
+- ML developer
+- Languages I know include C,C++,Python
 
 
 
