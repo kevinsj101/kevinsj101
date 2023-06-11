@@ -3,7 +3,7 @@
 ## I'm a Student at SRM Institute of Science and Technology
 
 - ML developer
-- Languages I know include C,C++,Python
+- Languages I know include C,C++,Python,SQL
 
 
 
